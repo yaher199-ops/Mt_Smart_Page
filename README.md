@@ -1,1 +1,1 @@
-#Yash_Aher_Smart_Page
+So basically it is a smart page made using the HTML document 
